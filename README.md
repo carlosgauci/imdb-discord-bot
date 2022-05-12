@@ -1,6 +1,6 @@
 # IMDb Discord Bot
 
-A discord bot that retrieves IMDb data for movies/series/games using the OMDb (Open Movie Database) API.
+A discord bot that retrieves IMDb data for movies/series/games using the [OMDb (Open Movie Database) API](https://www.omdbapi.com/).
 
 ## Instructions
 
@@ -15,6 +15,8 @@ A discord bot that retrieves IMDb data for movies/series/games using the OMDb (O
 5. Run `npm start` to start the bot (or `npm run dev` to start with nodemon.)
 
 6. Add the bot to your discord server, and use `!imdb info <title>` to fetch data about a specific title, or `!imdb search <query>` to fetch a list of titles for that query. eg: `!imdb info westworld`, `!imdb search game of thrones`.
+
+## Examples
 
 ![!imdb info for all mankind](https://i.imgur.com/E8962bH.png)
 
